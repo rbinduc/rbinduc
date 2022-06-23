@@ -7,7 +7,6 @@
 - 👋 Hi, I’m @rbinduc
 - 👀 I’m interested in learning new things, cooking, travelling
 - 🌱 I’m currently learning Web Development
-- 
 
 <!---
 rbinduc/rbinduc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
