@@ -1,7 +1,7 @@
 ![](Hi.gif)
 
 
-Hey there, I'm Bindu
+# Hey there, I'm Bindu
 
 
 - 👋 Hi, I’m @rbinduc
